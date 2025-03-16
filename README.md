@@ -8,7 +8,10 @@
 
 ## 🌟 About Me
 
-I am an aspiring final-year B-Tech student in Electronics and Communication Engineering from GITAM University, Bengaluru, with a CGPA of 6.95. Passionate about innovative solutions in automotive electronics, I am eager to apply my problem-solving skills and technical expertise in Java to contribute to cutting-edge projects in a dynamic organization. My current focus is on designing self-heating and cooling wiring harness materials for automotive applications.
+Passionate about innovation and a team player, I worked on a capstone project1: the Design and 
+development of self-heating and cooling materials, and a capstone project 2: Harnessing IOT to solve 
+underpass Challenges and knowledge in Java, which is applied in academics. I am a quick learner, always 
+eager to acquire new skills that contribute effectively to the organization.
 
 ## 💼 Projects
 
