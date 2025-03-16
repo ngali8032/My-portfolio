@@ -8,22 +8,17 @@
 
 ## 🌟 About Me
 
-Passionate about innovation and a team player, I worked on a capstone project1: the Design and 
-development of self-heating and cooling materials, and a capstone project 2: Harnessing IOT to solve 
-underpass Challenges and knowledge in Java, which is applied in academics. I am a quick learner, always 
-eager to acquire new skills that contribute effectively to the organization.
+Passionate about innovation and a team player, I worked on a capstone project1: the Design and development of self-heating and cooling materials, and a capstone project 2: Harnessing IOT to solve underpass Challenges and knowledge in Java, which is applied in academics. I am a quick learner, always eager to acquire new skills that contribute effectively to the organization.
 
 ## 💼 Projects
 
-### **Capstone Project: Self-Heating & Cooling Wiring Harness** (Ongoing)  
-- Collaborating with a team to design innovative wiring harness materials with integrated heating and cooling capabilities for automotive applications.
-- Enhancing energy efficiency and improving thermal management for vehicle wiring systems.
-- Testing advanced materials and optimizing thermal conductivity and durability under various conditions.
+### **Capstone Project1: Self-Heating & Cooling Wiring Harness** 
+- Working with a team to design innovative wiring harness materials with integrated heating and cooling capabilities for automotive applications. 
+- Supported project management to ensure timely delivery of milestones and documentation.
 
-### **E-Commerce Platform: Musician Website**  
-- Developed an e-commerce website for musicians in collaboration with a friend.
-- Personally handled HTML and CSS, while the friend worked on JavaScript functionality.
-- Created a responsive design that includes product listings and ensures a user-friendly experience.
+### **Capstone Project 2: Harnessing IOT to Solve Underpass Flooding Challenges (Ongoing) **  
+- To develop an IOT-based smart flood monitoring and management system that uses sensors and real-time data analysis
+- To detect and mitigate underpass flooding, ensuring public safety and minimizing disruptions through automated responses and alert mechanisms. 
 
 ## 🛠️ Technical Skills
 
