@@ -53,5 +53,3 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gali-narendra-
 Thank you for visiting my portfolio!
 
 ---
-
-_This portfolio is built with [GitHub Pages](https://pages.github.com/) using Markdown._
