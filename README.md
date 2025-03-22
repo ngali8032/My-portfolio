@@ -30,6 +30,22 @@ Passionate about innovation and a team player, I worked on a capstone project1: 
 
 - **JAVA Programming Certification** – Coursera
 
+## 👨‍🎓Education
+- **B-Tech in Electronics and Communication Engineering**
+- GITAM University, Bengaluru
+- CGPA: 7.05 | Graduation: 2025
+  
+- **12th Grade (Intermediate)**
+- Narayana Junior College, Guntur
+- Percentage: 89%
+
+- **10th Grade (Secondary Standard)**
+- Geethanjali High School, Vinukonda
+- Percentage: 90%
+
+## 🏃‍♂️Other Intrests
+-  Enthusiastic about playing cricket and interested in outdoor activities like traveling and trekking. 
+
 ## 🌐 Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gali-narendra-97b04524b/) or [Email](mailto:ngali8032@gmail.com). 
