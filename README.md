@@ -22,14 +22,13 @@ Passionate about innovation and a team player, I worked on a capstone project1: 
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Java, HTML, CSS
-- **Technical Tools:** Wiring Harness Design
+- **Programming Languages:** Java, OOPS, Collection frameworks of Data Structures
+- **Technical Tools:**  Wokwi, GitHub
 - **Soft Skills:** Communication, Teamwork, Problem-solving, Time Management
 
 ## 🎓 Certifications
 
-- **C Programming Certification** – Prep-Insta
-- **Certificate of Web Development** – Cognify Technologies
+- **JAVA Programming Certification** – Coursera
 
 ## 🌐 Let's Connect
 
