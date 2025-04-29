@@ -1,3 +1,4 @@
+/* Base styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -274,57 +275,65 @@ ul {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3), 0 12px 40px rgba(0, 0, 0, 0.3);
 }
 
+/* Mobile-Friendly Hamburger Menu */
+.menu-toggle {
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: #ff6347; /* Tomato color */
+    color: #fff;
+    border: none;
+    padding: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    z-index: 1001; /* Above the menu */
+}
+
+.menu-toggle:focus {
+    outline: none;
+}
+
+header nav {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: -100%; /* Hide off-screen */
+    width: 250px;
+    height: 100%;
+    background: #333;
+    transition: left 0.3s ease-in-out;
+}
+
+header nav.open {
+    left: 0; /* Slide in when open */
+}
+
+header nav ul {
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+header nav ul li {
+    margin: 10px 0;
+    text-align: left; /* Align items to the left */
+}
+
+header nav ul li a {
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #555;
+}
+
 @media (max-width: 768px) {
-    header .header-container {
-        flex-direction: column; /* Stack navigation and logo vertically */
-        text-align: center;
+    .menu-toggle {
+        display: block; /* Show toggle button for mobile */
     }
 
-    header nav ul {
-        flex-wrap: wrap; /* Allow wrapping for menu items */
-        gap: 10px; /* Reduce spacing */
-    }
-
-    .home-content {
-        flex-direction: column; /* Stack text and image vertically */
-        align-items: center;
-    }
-
-    .home-image, .home-text {
-        flex: 1 1 100%; /* Full width for small screens */
-        max-width: none; /* Disable max-width for full stretch */
-    }
-
-    .home-image {
-        margin: 10px; /* Adjust spacing */
-    }
-
-    .extra-curriculars-images {
-        flex-direction: column; /* Stack images vertically */
-        align-items: center;
-    }
-
-    .extra-curriculars-images img {
-        max-width: 90%; /* Scale down images */
-    }
-
-    .project {
-        margin-bottom: 20px; /* Adjust spacing */
-        padding: 10px; /* Reduce padding */
-    }
-
-    .project-media {
-        width: 100%; /* Full width for media */
-        height: auto; /* Maintain aspect ratio */
-    }
-
-    .contact-box {
-        height: auto; /* Let the height adjust dynamically */
-        padding: 10px; /* Reduce padding */
-    }
-
-    .contact-item {
-        margin-bottom: 10px; /* Adjust spacing */
+    header nav {
+        flex-direction: column;
     }
 }
 
